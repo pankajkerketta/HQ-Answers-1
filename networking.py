@@ -8,7 +8,7 @@ BEARER_TOKEN = ''
 URL = 'https://api-quiz.hype.space/shows/now?type='
 HEADERS = {
     'Authorization': f'Bearer {BEARER_TOKEN}',
-    'x-hq-client': 'Android/1.3.0'
+    'x-hq-client': 'Android/1.49.3'
 }
 
 
